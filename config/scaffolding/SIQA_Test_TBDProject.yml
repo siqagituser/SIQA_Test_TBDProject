@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/siqagituser
   gitUsername: siqagituser
   gitBranch: main
+- name: APSAProject
+  gitServerName: SIQA_kvv_wm_io
+  gitUrl: https://github.webmethods.io/apsa
+  gitUsername: kvv
+  gitBranch: main
